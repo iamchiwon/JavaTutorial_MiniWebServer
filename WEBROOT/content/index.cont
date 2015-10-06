@@ -1,0 +1,13 @@
+%TEMPLATE%
+default
+%TITLE%
+Mini-WebServer
+%CONTENT%
+<h1>Hello World</h1>
+Message from mini web-server.<br/>
+<img src="image/browser.png" style="width:200px"/><br/>
+<div id="date"></div>
+<script>
+document.getElementById("date").innerHTML=Date();
+</script>
+<p><a href="search.html">SEARCH</a></p>
