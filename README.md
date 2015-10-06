@@ -1,15 +1,15 @@
 # Java Tutorial 2
 
-** Project Name ** : MiniWebServer
+**Project Name** : MiniWebServer
 
-** Point **
+**Point**
 - ServerSocket
 - Thread
 - InputStream / OutputStream
 - HTTP Protocol
 - File Handling
 
-** Features **
+**Features**
 - socketServer base web server
 - HTTP protocol implementation
 - support GET / POST
