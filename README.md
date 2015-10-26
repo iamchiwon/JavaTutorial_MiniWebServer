@@ -13,5 +13,5 @@
 - socketServer base web server
 - HTTP protocol implementation
 - support GET / POST
-- support http template
-- support server side content handling
+- support html template
+- support server data merged page (like JSP)
